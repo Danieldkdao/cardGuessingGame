@@ -45,3 +45,14 @@ body{
             pointer-events: none;
             z-index: 100;
         }
+
+        .reset{
+            margin: 20px;
+            padding: 10px;
+            font-size: 20px;
+            background-color:antiquewhite;
+            border-radius: 10px;
+            border: none;
+            box-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            cursor: pointer;
+        }
